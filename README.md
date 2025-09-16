@@ -8,4 +8,4 @@ My interests in math are currently:
 - Probability
 - Combinatorics
 
-I hope to work in AI or Quant Finance as a researcher or trader.
+I hope to work in AI as a researcher
