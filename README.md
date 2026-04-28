@@ -2,8 +2,10 @@
 
 
 I am currently a freshman at SUNY Stony Brook, studying Computer Science, Applied Mathematics and Statistics.
-My interests in math are :
-- Number Theory
-- Probability
+My interests are :
 - Combinatorics
+- Graph Theory
+- Theoretical Computer Science
+- Algorithms
+
 
