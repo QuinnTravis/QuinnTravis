@@ -5,6 +5,7 @@ I am currently a freshman at SUNY Stony Brook, studying Computer Science, Applie
 Topics I want to explore:
 - Combinatorics
 - Graph Theory
+- Systems Programming
 - Theoretical Computer Science
 - Algorithms
 
