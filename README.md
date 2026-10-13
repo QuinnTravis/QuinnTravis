@@ -1,14 +1,25 @@
-## Raafay Ali 👨🏻‍💻
+# Raafay Ali 👨🏻‍💻
 
+**CSE + Applied Mathematics @ Stony Brook University**
 
-I am currently a Sophomore at SUNY Stony Brook, studying Computer Science, Applied Mathematics and Statistics.
+Interested in mathematical computing at the intersection of algorithms, systems, and machine learning.
 
-I am currently:
-- Leading a Cryptocurrency Machine Learning (CML) project exploring ML-based cryptocurrency portfolio construction and risk-adjusted returns.
-- Member of Professor Annie Liu's Advanced Programming Club, exploring programming techniques and challenging computational problems.
-- Representative of the Stony Brook Quant Club
+---
 
-My interests are:
-Graph Theory, Combinatorics, Systems, Algorithms and Machine Learning. I also hope to explore abstract algebra and geometry more deeply.
+### 🔬 Research & Projects
+- Leading a **Cryptocurrency Machine Learning (CML)** project exploring ML-based portfolio construction and risk-adjusted returns.
 
-I am also a fan and practitioner of Brazilian Jiu-Jitsu.
+### 💻 Community
+- Member of **Professor Annie Liu's Advanced Programming Club**
+- Representative of the **Stony Brook Quant Club**
+
+### 🧠 Areas of Interest
+- **Mathematics:** Graph theory, combinatorics, abstract algebra, and geometry
+- **Computer Science:** Algorithms, systems programming, and machine learning
+
+### 🥋 Beyond the Keyboard
+Brazilian jiu-jitsu
+
+---
+
+[GitHub](https://github.com/QuinnTravis) · [LinkedIn](https://www.linkedin.com/in/syedraafayali/) · [Codeforces](https://codeforces.com/profile/RaafayAli)
