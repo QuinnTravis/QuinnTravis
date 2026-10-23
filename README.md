@@ -18,7 +18,7 @@ Interested in mathematical computing at the intersection of algorithms, systems,
 - **Computer Science:** Algorithms, systems programming, and machine learning
 
 ### 🥋 Beyond the Keyboard
-Brazilian jiu-jitsu
+Brazilian jiu-jitsu, Whittling, Puzzles
 
 ---
 
